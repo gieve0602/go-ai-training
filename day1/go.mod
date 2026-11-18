@@ -1,0 +1,3 @@
+module ai-training/day1
+
+go 1.27.3
